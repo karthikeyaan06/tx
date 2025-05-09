@@ -1,4 +1,4 @@
-pip install numpy scipy tensorly scikit-learn
+#pip install numpy scipy tensorly scikit-learn
 import numpy as np
 from tensorly.decomposition import tucker
 import tensorly as tl
